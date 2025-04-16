@@ -1,7 +1,7 @@
 # GrAImes
 Grading AI Microfiction Evaluation System
 
-This Github repository contains the data analysed for the scientific paper "Introducing GrAImes: a literary quality evaluation protocol for AI generated microfictions"
+This Github repository contains the data analysed for the scientific paper "Introducing GrAImes: a literary quality evaluation protocol for AI generated microfictions", file "GrAImes_microfictions_evaluations.xlsx"
 
 Abstract: Automated story writing has been a subject of study for over 60 years. While
 there are mechanisms capable of generating consistent and coherent stories, and even those
